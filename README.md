@@ -1,1 +1,1 @@
-ecanruF - mod based on furnace.lua from Minetest Game: default mod.
+ecanruF - mod based on furnace.lua from Minetest Game mod: default.
