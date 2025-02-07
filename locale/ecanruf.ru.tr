@@ -1,0 +1,10 @@
+# textdomain: ecanruf
+ecanruF is empty=ьчеП пуста
+100% (output full)=100% (выход заполнен)
+@1%=@1%
+Not uncookable=Не может быть разготовленым
+Empty=Пустое
+ecanruF active=ьчеП зажжена
+ecanruF inactive=ьчеП не зажжена
+(Item: @1; Fuel: @2)=(Предмет: @1; Топливо: @2)
+ecanruF=ьчеП
